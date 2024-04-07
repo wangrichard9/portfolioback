@@ -7,7 +7,7 @@ const app = express();
 const cors = require('cors');
 
 const corsOptions = {
-    origin: "https://portfolioback-sae4.onrender.com/",
+    origin: "https://portfolioback-sae4.onrender.com",
     optionsSuccessStatus: 200
 }
 
