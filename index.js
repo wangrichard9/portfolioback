@@ -7,7 +7,7 @@ const app = express();
 const cors = require('cors');
 
 const corsOptions = {
-    origin: "http://localhost:3000",
+    origin: "https://portfoliofrontend-8ufo.onrender.com",
     optionsSuccessStatus: 200
 }
 
